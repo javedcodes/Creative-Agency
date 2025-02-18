@@ -1,0 +1,203 @@
+@font-face {
+    font-family: "flaticon_aina";
+    src: url("../fonts/flaticon_ainaf07d.ttf?958265746a0f912f42eb35677320f5e9") format("truetype"),
+url("../fonts/flaticon_ainaf07d.woff?958265746a0f912f42eb35677320f5e9") format("woff"),
+url("../fonts/flaticon_ainaf07d.woff2?958265746a0f912f42eb35677320f5e9") format("woff2"),
+url("../fonts/flaticon_ainaf07d.eot?958265746a0f912f42eb35677320f5e9#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_ainaf07d.svg?958265746a0f912f42eb35677320f5e9#flaticon_aina") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_aina !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-shopping-bag:before {
+    content: "\f101";
+}
+.flaticon-vision:before {
+    content: "\f102";
+}
+.flaticon-coding:before {
+    content: "\f103";
+}
+.flaticon-idea:before {
+    content: "\f104";
+}
+.flaticon-artificial-intelligence:before {
+    content: "\f105";
+}
+.flaticon-artificial-intelligence-1:before {
+    content: "\f106";
+}
+.flaticon-4k:before {
+    content: "\f107";
+}
+.flaticon-save:before {
+    content: "\f108";
+}
+.flaticon-broadcast:before {
+    content: "\f109";
+}
+.flaticon-broadcast-1:before {
+    content: "\f10a";
+}
+.flaticon-artificial-intelligence-2:before {
+    content: "\f10b";
+}
+.flaticon-laptop:before {
+    content: "\f10c";
+}
+.flaticon-4k-1:before {
+    content: "\f10d";
+}
+.flaticon-tablet:before {
+    content: "\f10e";
+}
+.flaticon-speed:before {
+    content: "\f10f";
+}
+.flaticon-logo:before {
+    content: "\f110";
+}
+.flaticon-speedometer:before {
+    content: "\f111";
+}
+.flaticon-high-speed:before {
+    content: "\f112";
+}
+.flaticon-television:before {
+    content: "\f113";
+}
+.flaticon-connection:before {
+    content: "\f114";
+}
+.flaticon-workers:before {
+    content: "\f115";
+}
+.flaticon-technical-support:before {
+    content: "\f116";
+}
+.flaticon-advanced:before {
+    content: "\f117";
+}
+.flaticon-rating:before {
+    content: "\f118";
+}
+.flaticon-earth-grid:before {
+    content: "\f119";
+}
+.flaticon-brand:before {
+    content: "\f11a";
+}
+.flaticon-support:before {
+    content: "\f11b";
+}
+.flaticon-broadcast-3:before {
+    content: "\f11c";
+}
+.flaticon-worker:before {
+    content: "\f11d";
+}
+.flaticon-team:before {
+    content: "\f11e";
+}
+.flaticon-networking:before {
+    content: "\f11f";
+}
+.flaticon-settings:before {
+    content: "\f120";
+}
+.flaticon-star:before {
+    content: "\f121";
+}
+.flaticon-motivation:before {
+    content: "\f122";
+}
+.flaticon-start-up:before {
+    content: "\f123";
+}
+.flaticon-discover:before {
+    content: "\f124";
+}
+.flaticon-live-streaming:before {
+    content: "\f125";
+}
+.flaticon-play-button:before {
+    content: "\f126";
+}
+.flaticon-maintenance:before {
+    content: "\f127";
+}
+.flaticon-analytics:before {
+    content: "\f128";
+}
+.flaticon-management:before {
+    content: "\f129";
+}
+.flaticon-right-arrow:before {
+    content: "\f12a";
+}
+.flaticon-house:before {
+    content: "\f12b";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f12c";
+}
+.flaticon-arrow:before {
+    content: "\f12d";
+}
+.flaticon-helmet:before {
+    content: "\f12e";
+}
+.flaticon-profit:before {
+    content: "\f12f";
+}
+.flaticon-growth-graph:before {
+    content: "\f130";
+}
+.flaticon-engineering:before {
+    content: "\f131";
+}
+.flaticon-surf:before {
+    content: "\f132";
+}
+.flaticon-satellite-dish:before {
+    content: "\f133";
+}
+.flaticon-design-thinking:before {
+    content: "\f134";
+}
+.flaticon-phone:before {
+    content: "\f135";
+}
+.flaticon-search:before {
+    content: "\f136";
+}
+.flaticon-brain:before {
+    content: "\f137";
+}
+.flaticon-security:before {
+    content: "\f138";
+}
+.flaticon-brain-1:before {
+    content: "\f139";
+}
+.flaticon-chip:before {
+    content: "\f13a";
+}
+.flaticon-bulb:before {
+    content: "\f13b";
+}
+.flaticon-broadcast-4:before {
+    content: "\f13c";
+}
+.flaticon-chatting:before {
+    content: "\f13d";
+}
